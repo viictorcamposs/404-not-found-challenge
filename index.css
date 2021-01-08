@@ -29,7 +29,7 @@ body {
 @media (min-width: 300px) {
   header {
     width: 100%;
-    padding: 1.25rem 0.7rem;
+    padding: 1.25rem 1.5rem;
   }
   header h1 {
     font-family: "Inconsolata", monospace;
@@ -52,7 +52,7 @@ body {
     width: 20rem;
   }
   main div:last-child {
-    padding: 0 0.7rem;
+    padding: 0 1.5rem;
     font-family: "Space Mono", monospace;
   }
   main div h2 {

@@ -63,5 +63,5 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- Website [your-website.com](https://www.linkedin.com/in/camposviictor/)
-- GitHub [@your-username](https://github.com/viictorcamposs)
+- Website [LinkedIn](https://www.linkedin.com/in/camposviictor/)
+- GitHub [@viictorcamposs](https://github.com/viictorcamposs)
